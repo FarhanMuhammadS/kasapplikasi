@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432629227398",
+    "project_id": "kasapplikasi",
+    "storage_bucket": "kasapplikasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432629227398:android:ff7b7ad1123d91ce111607",
+        "android_client_info": {
+          "package_name": "com.example.kasapplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432629227398-iu8l1h371p0c5ng95akhids2vee21r87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsfco1YgcexDcgWtPhIyXzt2iRN2eDdfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432629227398-iu8l1h371p0c5ng95akhids2vee21r87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
