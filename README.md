@@ -1,16 +1,19 @@
-# kasapplikasi
+# Mini Project
 
-A new Flutter project.
+A mini project that are made using IMDB api and sdk form firebase, so user could do sign up also sign in to save their movie or series list with certain status, for example, the user has a movie in the list with status of watching and more.
 
-## Getting Started
+## Task
 
-This project is a starting point for a Flutter application.
+Tugas ini merupakan tugas kita sebagai siswa, untuk membuat sebuah aplikasi berdasarkan syarat-syarat tertentu yang berhubungan dengan dari apa yang sudah kita pelajari. Untuk syarat-syarat tersebut diantara lain.
 
-A few resources to get you started if this is your first Flutter project:
+- Minimum memiliki 5 halaman.
+- Menerapkan MVVM architecture.
+- Mengakses data menggunakan RESTful API atau SQLite.
+- Menggunakan transition.
+- Menggunakan Form.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Minimum Memiliki 5 Halaman
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+- Screenshot App
+<img src="assets/loginkasapp" width="30%">
