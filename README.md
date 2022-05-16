@@ -16,4 +16,4 @@ Tugas ini merupakan tugas kita sebagai siswa, untuk membuat sebuah aplikasi berd
 
 
 - Screenshot App
-<img src="assets/loginkasapp.png" width="30%">
+<img src="assets/Loginkasapp.png" width="30%">
