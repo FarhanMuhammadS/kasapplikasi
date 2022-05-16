@@ -13,7 +13,12 @@ Tugas ini merupakan tugas kita sebagai siswa, untuk membuat sebuah aplikasi berd
 - Menggunakan Form.
 
 ## Minimum Memiliki 5 Halaman
-
+Disini saya membuat sebuah applikasi pencatatan kas rt 
 
 - Screenshot App
 <img src="assets/Loginkasapp.png" width="30%">
+<img src="assets/SignUp.png" width="30%">
+<img src="assets/Home.png" width="30%">
+<img src="assets/ListWarga" width="30%">
+<img src="assets/input kas.png" width="30%">
+<img src="assets/inputwarga.png" width="30%">
