@@ -16,9 +16,15 @@ Tugas ini merupakan tugas kita sebagai siswa, untuk membuat sebuah aplikasi berd
 Disini saya membuat sebuah applikasi pencatatan kas rt 
 
 - Screenshot App
-<img src="assets/Loginkasapp.png" width="30%">
-<img src="assets/SignUp.png" width="30%">
-<img src="assets/Home.png" width="30%">
+Disini saya membuat login yang di auntentication ke firebase jadi nanti kita pas login harus masukan email sama paswword terlebihdahulu 
+<img src="assets/Loginkasapp.png" width="30%">  
+Yang Kedua yaitu fitur signUp sama kayak login yang di auth ke firebase
+<img src="assets/SignUp.png" width="30%">  
+Yang ketiga home dimna di dalam home kita bisa liat daftar warga yang udah membayar kas
+<img src="assets/Home.png" width="30%">  
+Fitur list warga dimna si user disini bisa menambahkan warga dan menginputkan uang warga
 <img src="assets/ListWarga" width="30%">
+Input menginputkan warga yang udah bayar kas
 <img src="assets/input kas.png" width="30%">
+Input nama warga baru
 <img src="assets/inputwarga.png" width="30%">
