@@ -14,6 +14,7 @@ class LoginScreen extends StatefulWidget {
 }
 
 class _LoginScreenState extends State<LoginScreen> {
+  bool isLoading = false;
   var obscureText = true;
   final _emailEditingController = TextEditingController();
   final _passwordEditingController = TextEditingController();
@@ -97,6 +98,10 @@ class _LoginScreenState extends State<LoginScreen> {
           style: TextStyle(color: Colors.white),
         ),
         onPressed: () async {
+           if (isLoading) return;
+          setState(() => isLoading = false);
+          await Future.delayed(Duration(seconds: 3));
+          setState(() => isLoading = true);
           if (_formKey.currentState!.validate()) {
             _formKey.currentState!.save();
             try {
